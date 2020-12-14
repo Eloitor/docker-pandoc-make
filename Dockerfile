@@ -1,3 +1,3 @@
 FROM pandoc/alpine-latex
 
-RUN apk add make git
+RUN apk add  --no-cache make git openssh
