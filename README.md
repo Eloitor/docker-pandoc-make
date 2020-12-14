@@ -1,2 +1,2 @@
 # docker-pandoc-make
-Dokerfile with pandoc and make
+Dokerfile with pandoc-latex and make
